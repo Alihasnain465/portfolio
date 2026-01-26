@@ -18,7 +18,7 @@ export default function Portfolio() {
       <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-background to-card">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-5xl md:text-7xl font-bold text-foreground mb-6 text-balance">
-            John Developer
+            Ali Hasnain
           </h1>
           <p className="text-xl md:text-2xl text- mb-8 max-w-2xl mx-auto text-pretty">
             Full-stack developer passionate about creating beautiful, functional
@@ -44,7 +44,7 @@ export default function Portfolio() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="/professional-developer-headshot.png"
+                src="/ali.jpeg"
                 alt="John Developer"
                 className="rounded-lg shadow-lg w-full max-w-md mx-auto"
               />
